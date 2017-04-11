@@ -1,0 +1,24 @@
+{
+  "name": "npm-demo-pkg",
+  "version": "1.0.1",
+  "description": "demo node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jitender1991/Personel"
+  },
+  "keywords": [
+    "node",
+    "demo",
+    "app"
+  ],
+  "author": "jitender1991",
+  "license": "fnjsfs",
+  "bugs": {
+    "url": "https://github.com/jitender1991/BasicNodeApp.git/issues"
+  },
+  "homepage": "https://github.com/jitender1991/BasicNodeApp.git"
+}
